@@ -28,7 +28,7 @@
 ## 7/16
 - Discriminative and generative models (2/2) 
 ## 7/17
--) RL 
+- RL 
 ## 7/18
 - Discriminative and Generative Models 
 ## 7/19
