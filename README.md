@@ -2,6 +2,9 @@
 ## 7/1
 - Introduction to ML
 - Regression
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RGu2P5b_u8P8hzxZhAl9Lag8JSPeONiL?usp=sharing)
+
 ## 7/2
 - introduction to python
 - Regression
