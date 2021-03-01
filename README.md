@@ -1,4 +1,4 @@
-# Intelligence Systems
+# Intelligence Systems (지능 시스템 개론)
 ## 7/1  
 - Introduction to ML
 - Regression
